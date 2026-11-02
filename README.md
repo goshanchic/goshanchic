@@ -1,5 +1,4 @@
 # 💫 About Me:
-text
 Role       : Systems & Backend Engineer
 Location   : Moscow
 Core Stack : Go • C++ • Java • Python • SQL
