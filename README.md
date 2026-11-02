@@ -1,9 +1,10 @@
 # 💫 About Me:
-Role       : Systems & Backend Engineer
-Location   : Moscow
-Core Stack : Go • C++ • Java • Python • SQL
-Interests  : High-load, Distributed Systems, Control Theory & Robotics
+- **Role:** Systems & Backend Engineer
+- **Location:** Moscow
+- **Core Stack:** Go • C++ • Java • Python • SQL
+- **Interests:** High-load, Distributed Systems, Control Theory & Robotics
 
+Hi! I build software ranging from concurrent backend services and distributed key-value storage to bare-metal embedded firmware. Always interested in performance optimization and architectural challenges.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/babenkogosha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gosha040105@gmail.com) 
